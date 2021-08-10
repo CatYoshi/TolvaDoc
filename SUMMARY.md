@@ -1,4 +1,19 @@
 # Table of contents
 
-* [Introducción](README.md)
+* [Tolva](README.md)
+
+## Configuración
+
+* [Introducción](configuracion/introduccion.md)
+
+## Otros
+
+* [FAQ](otros/faq.md)
+* [Changelog](otros/changelog.md)
+* [Badges](otros/badges.md)
+
+## Políticas
+
+* [Términos y condiciones](politicas/terminos-y-condiciones.md)
+* [Política de privacidad](politicas/politica-de-privacidad.md)
 
