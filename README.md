@@ -8,11 +8,11 @@ description: >-
 
 ¡Bienvenido a la documentación de Tolva! Aquí te explicaremos cómo configurar todas sus funciones junto a toda la información de estas, además de las preguntas frecuentes \(FAQ\) sobre el bot \(obviamente con sus respuestas\). 
 
-{imagen}
+![](.gitbook/assets/tolvabot.png)
 
+## Links
 
-
-Invitación - ¡Invita el bot a tu servidor!
+[Invitación](https://youtu.be/dQw4w9WgXcQ) - ¡Invita el bot a tu servidor!
 
 [Servidor de soporte](https://discord.gg/byne3YKJGU) - ¿Necesitas ayuda? Únete y te ayudaremos con ello.
 
