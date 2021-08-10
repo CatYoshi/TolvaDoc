@@ -5,6 +5,8 @@
 ## Configuración
 
 * [Introducción](configuracion/introduccion.md)
+* [Moderación](configuracion/moderacion/README.md)
+  * [Ban](configuracion/moderacion/untitled.md)
 
 ## Otros
 
