@@ -1,8 +1,8 @@
 # FAQ
 
-## Can I become who I want to be?
+## ¿Por qué estoy en la blacklist de Tolva?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+Eso es debido a que en algún momento rompiste los términos y condiciones, ya sea de [Discord](https://discord.com/terms) o de [Tolva](../politicas/terminos-y-condiciones.md). Además de que al crear una cuenta de Discord, aceptas los ToS \(Terms of service\) y que al usar el bot, aceptas la [política de privacidad](../politicas/politica-de-privacidad.md), junto a los términos. Si crees que la acción ha sido tomada incorrectamente deberá hablar con un desarrollador del bot.
 
 ## Have you had a chance to answer the previous question?
 
