@@ -1,12 +1,12 @@
 ---
-description: En este apartado te mostraremos la configuración del comando 'ban'.
+description: En este apartado te mostraremos toda la configuración del comando ban.
 ---
 
 # Ban
 
-## Getting Super Powers
+## Mensaje personalizado
 
-Becoming a super hero is a fairly straight forward process:
+
 
 ```
 $ give me super-powers

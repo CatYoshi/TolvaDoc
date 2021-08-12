@@ -12,7 +12,7 @@
 
 * [FAQ](otros/faq.md)
 * [Changelog](otros/changelog.md)
-* [Badges](otros/badges.md)
+* [Insignias](otros/badges.md)
 
 ## Políticas
 
