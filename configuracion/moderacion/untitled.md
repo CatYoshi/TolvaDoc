@@ -22,7 +22,7 @@ t!setbanreply confirm [Mensaje]
 t!setbanreply userdm [Mensaje]
 ```
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 {% hint style="success" %}
 **Variables:** 
@@ -31,6 +31,8 @@ t!setbanreply userdm [Mensaje]
 * {usertag} - 
 * {userid} - 
 * {moderator} - 
+* {moderatortag} - 
+* {moderatorid} - 
 * {reason} -
 * {server} -
 {% endhint %}
