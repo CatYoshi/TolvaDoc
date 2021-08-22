@@ -20,3 +20,5 @@ t!roleperms moderator [@Moderador | RoleID]
 Para usar este comando requieres permisos de ADMINISTRADOR.
 {% endhint %}
 
+
+
