@@ -1,12 +1,14 @@
 ---
 description: >-
-  Tolva es un bot multifunción de Discord desarrollado por MarcosYoshi#0001 &
+  Tolva is a Discord multifunction bot developed by MarcosYoshi#0001 &
   Pizza#7625.
 ---
 
 # Tolva
 
-¡Bienvenido a la documentación de Tolva! Aquí te explicaremos cómo configurar todas sus funciones junto a toda la información de estas, además de las preguntas frecuentes \(FAQ\) sobre el bot \(obviamente con sus respuestas\). 
+Welcome to the Tolva documentation! 
+
+Aquí te explicaremos cómo configurar todas sus funciones junto a toda la información de estas, además de las preguntas frecuentes \(FAQ\) sobre el bot \(obviamente con sus respuestas\). 
 
 ![](.gitbook/assets/tolvabot.png)
 
