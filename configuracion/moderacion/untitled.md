@@ -27,14 +27,18 @@ t!setbanreply userdm [Mensaje]
 {% hint style="success" %}
 **Variables:** 
 
-* {user} - 
-* {usertag} - 
-* {userid} - 
-* {moderator} - 
-* {moderatortag} - 
-* {moderatorid} - 
-* {reason} -
-* {server} -
+* **Variables de usuario:** 
+  * {user} - Mención al usuario sancionado. \(Ej: @Pizza\) 
+  * {usertag} - Tag del usuario sancionado. \(Ej: Pizza\#7625\)
+  * {username} - Nombre del usuario sancionado. \(Ej: Pizza\)
+  * {userid} - ID del usuario sancionado. \(Ej: 550711245225984022\)
+* **Variables de moderador:**
+  * {moderator} - Mención al moderador causante de la acción. \(Ej: @MarcosYoshi\)
+  * {moderatortag} - Tag del moderador causante de la acción. \(Ej: MarcosYoshi\#0001\)
+  * {moderatorname} - Nombre del moderador causante de la acción. \(Ej: MarcosYoshi\)
+  * {moderatorid} - ID del moderador causante de la acción. \(Ej: 527057273219186698\)
+* {reason} - La razón adjuntada a la acción. \(Ej: Romper los términos y condiciones\)
+* {server} - El nombre del servidor donde se ha tomado la acción. \(Ej: TolvaCity\)
 {% endhint %}
 
 {% hint style="info" %}
