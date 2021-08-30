@@ -22,7 +22,7 @@ t!setbanreply confirm [Mensaje]
 t!setbanreply userdm [Mensaje]
 ```
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 {% hint style="success" %}
 **Variables:** 
@@ -39,9 +39,5 @@ t!setbanreply userdm [Mensaje]
   * {moderatorid} - ID del moderador causante de la acción. \(Ej: 527057273219186698\)
 * {reason} - La razón adjuntada a la acción. \(Ej: Romper los términos y condiciones\)
 * {server} - El nombre del servidor donde se ha tomado la acción. \(Ej: TolvaCity\)
-{% endhint %}
-
-{% hint style="info" %}
-Si quieres saltar de línea escribe **\n** en el mensaje, como en el segundo ejemplo.
 {% endhint %}
 
